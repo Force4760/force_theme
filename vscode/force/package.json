@@ -1,0 +1,21 @@
+{
+    "name": "force",
+    "displayName": "Force",
+    "description": "A color theme based on dracula edited by Force",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Force",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Force-color-theme.json"
+            }
+        ]
+    }
+}
